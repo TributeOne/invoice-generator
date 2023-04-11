@@ -61,12 +61,6 @@ Folder: | Description
 
 ---
 
-
-
-
-
-
----
 # Rechnungs Generator (Deutsch)
 
 ## Beschreibung
@@ -128,4 +122,3 @@ Ordner: | Beschreibung
 | Premium Reporting | email | 0 €
 | Elite Reporting | standard | 0 €
 | Ultimate Reporting | customized | 0 €
-# invoice-generator
