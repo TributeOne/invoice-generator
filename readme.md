@@ -1,4 +1,4 @@
-# Invoice Generation (English)
+# Invoice Generator (English)
 
 ## Description
 This project is designed to generate invoices for a company that provides an API service with various pricing plans, including Basic, Standard, and Premium. The invoice generation process takes into account the number of API calls made by each customer and calculates the total cost based on the selected plan and additional charges for exceeding the included number of API calls. The output is a detailed invoice for each customer, containing information such as the customer's details, the plan they have subscribed to, and the additional charges incurred due to extra API calls.
